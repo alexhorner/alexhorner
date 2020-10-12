@@ -9,5 +9,6 @@
 Hello, I build things and they do stuff... sometimes. Awesome!
 
 ## Recommended Repos
+- Western Digital WD Sentinel DX4000 NAS with Debian: https://github.com/alexhorner/WD-DX4000
 - IRC Library for C#: https://github.com/alexhorner/smIRCL
 - ZyXEL-NAS326 Modernisation (not actively maintained): https://github.com/alexhorner/ZyXEL-NAS326
