@@ -8,6 +8,8 @@
 
 Hello, I build things and they do stuff... sometimes. Awesome!
 
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexhorner&hide=stars,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Recommended Repos
 - Western Digital WD Sentinel DX4000 NAS with Debian: https://github.com/alexhorner/WD-DX4000
 - IRC Library for C#: https://github.com/alexhorner/smIRCL
