@@ -20,12 +20,13 @@ Hello, I build things and they do stuff... sometimes. Awesome!
     <img alt="Firefox" src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="DuckDuckGo" src="https://www.vectorlogo.zone/logos/duckduckgo/duckduckgo-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="GitHub" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" style="display: inline;" />
-    <img alt="Discord" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="JetBrains" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Linux" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Ubuntu" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="40" height="40" style="display: inline;" />
+    <img alt="Debian" src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="NGINX" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" height="40" style="display: inline;" />
+    <img alt="PostgreSQL" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Cloudflare" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Let's Encrypt" src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Android" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="40" height="40" style="display: inline;" />
@@ -40,11 +41,9 @@ Hello, I build things and they do stuff... sometimes. Awesome!
     <img alt="Bootstrap" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" width="40" height="40" style="display: inline;" />
     <img alt="Markdown" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="CURL" src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-icon.svg" width="40" height="40" style="display: inline;" />
-    <img alt="Debian" src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="MariaDB" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40" style="display: inline;" />
-    <img alt="PostgreSQL" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="SQLite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Apache" src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Raspberry Pi" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="40" height="40" style="display: inline;" />
@@ -76,6 +75,7 @@ Hello, I build things and they do stuff... sometimes. Awesome!
     <img alt="Lua" src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Shields.io" src="https://www.vectorlogo.zone/logos/shieldsio/shieldsio-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Mastodon" src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-icon.svg" width="40" height="40" style="display: inline;" />
+    <img alt="Discord" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" width="40" height="40" style="display: inline;" />
 </div>
 
 ### And these things are pretty cool too!
