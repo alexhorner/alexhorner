@@ -8,6 +8,10 @@
 
 Hello, I build things and they do stuff... sometimes. Awesome!
 
+Linux all the things!
+
+__Contact Me:__ contact@alexhorner.cc
+
 ### Here are the technologies and tools I use almost on the daily
 <div >
     <img alt=".NET" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="40" height="40" style="display: inline;" />
