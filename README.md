@@ -8,8 +8,6 @@
 
 Hello, I build things and they do stuff... sometimes. Awesome!
 
-Linux all the things!
-
 __Contact Me:__ contact@alexhorner.cc
 
 ### Here are the technologies and tools I use almost daily
