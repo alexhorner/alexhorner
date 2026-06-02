@@ -11,7 +11,7 @@ Hello, I build things and they do stuff... sometimes. Awesome!
 __Contact Me:__ contact@alexhorner.cc
 
 ### Here are the technologies and tools I use almost daily
-<sup>If you ask me about these, I can probably tell you quite a lot and help you use them</sup>
+<sup>If you ask me about these, I can probably tell you a fair amount and maybe help you use them</sup>
 <div>
     <img alt="Fedora" src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Proxmox" src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/proxmox.svg" width="40" height="40" style="display: inline;" />
@@ -28,6 +28,7 @@ __Contact Me:__ contact@alexhorner.cc
     <img alt="CSS3" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="JavaScript" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" width="40" height="40" style="display: inline;" />
+    <img alt="NodeJS" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="JSON" src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="GitHub" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="JetBrains" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" width="40" height="40" style="display: inline;" />
@@ -35,20 +36,20 @@ __Contact Me:__ contact@alexhorner.cc
     <img alt="Let's Encrypt" src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Android" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="BitWarden" src="https://www.vectorlogo.zone/logos/bitwarden/bitwarden-icon.svg" width="40" height="40" style="display: inline;" />
-    <img alt="Stack Overflow" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="40" height="40" style="display: inline;" />
+    <img alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" style="display: inline;" />
+    <img alt="Apple" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" width="40" height="40" style="display: inline;" />
 </div>
 
 ### And some I use often
-<sup>I probably know a fair amount about these, but not necessarily in depth</sup>
+<sup>I probably know a decent amount about these, but not necessarily in depth or don't use them often</sup>
 <div style="display: flex;">
     <img alt="Debian" src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Markdown" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="CURL" src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-icon.svg" width="40" height="40" style="display: inline;" />
-    <img alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Wayback Machine" src="https://www.vectorlogo.zone/logos/archive_web/archive_web-icon.svg" width="40" height="40" style="display: inline;" />
+    <img alt="Stack Overflow" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Brave" src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Discord" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" width="40" height="40" style="display: inline;" />
-    <img alt="Apple" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" width="40" height="40" style="display: inline;" />
 </div>
 
 ### Occasionally
@@ -62,7 +63,6 @@ __Contact Me:__ contact@alexhorner.cc
     <img alt="Apache" src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Raspberry Pi" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="WordPress" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" width="40" height="40" style="display: inline;" />
-    <img alt="NodeJS" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Node Package Manager" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="VirtualBox" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="VLC" src="https://www.vectorlogo.zone/logos/videolan_vlc/videolan_vlc-icon.svg" width="40" height="40" style="display: inline;" />
@@ -86,15 +86,8 @@ __Contact Me:__ contact@alexhorner.cc
     <img alt="OwnCloud" src="https://www.vectorlogo.zone/logos/owncloud/owncloud-icon.svg" width="40" height="40" style="display: inline;" />
 </div>
 
-### And these things are pretty cool too!
-<sup>They help keep me going through good and bad</sup>
-<div>
-    <img alt="Pepsi" src="https://www.vectorlogo.zone/logos/pepsi/pepsi-icon.svg" width="40" height="40" style="display: inline;" />
-    <img alt="Spotify" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" width="40" height="40" style="display: inline;" />
-</div>
-
 <br />
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" targe="_blank"><img src="https://github-readme-stats.vercel.app/api?username=alexhorner&hide=stars,prs&count_private=true&show_icons=true" title="Alex's GitHub Stats" /></a>
+  <a href="https://github.com/stats-organization/github-stats-extended" targe="_blank"><img src="https://github-stats-extended.vercel.app/api?username=alexhorner&hide=stars,prs&count_private=true&show_icons=true" title="Alex's GitHub Stats" /></a>
 </div>
