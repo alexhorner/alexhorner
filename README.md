@@ -16,7 +16,6 @@ __Contact Me:__ contact@alexhorner.cc
     <img alt="Fedora" src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Proxmox" src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/proxmox.svg" width="40" height="40" style="display: inline;" />
     <img alt="Linux" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40" style="display: inline;" />
-    <img alt="Firefox" src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="DuckDuckGo" src="https://www.vectorlogo.zone/logos/duckduckgo/duckduckgo-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="NGINX" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="PostgreSQL" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40" style="display: inline;" />
@@ -30,36 +29,36 @@ __Contact Me:__ contact@alexhorner.cc
     <img alt="JavaScript" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" width="40" height="40" style="display: inline;" />
     <img alt="NodeJS" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="JSON" src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40" height="40" style="display: inline;" />
-    <img alt="GitHub" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="JetBrains" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Cloudflare" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Let's Encrypt" src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg" width="40" height="40" style="display: inline;" />
-    <img alt="Android" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="40" height="40" style="display: inline;" />
-    <img alt="BitWarden" src="https://www.vectorlogo.zone/logos/bitwarden/bitwarden-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" style="display: inline;" />
+    <img alt="Debian" src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" width="40" height="40" style="display: inline;" />
+    <img alt="Brave" src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Apple" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" width="40" height="40" style="display: inline;" />
 </div>
 
 ### And some I use often
 <sup>I probably know a decent amount about these, but not necessarily in depth or don't use them often</sup>
 <div style="display: flex;">
-    <img alt="Debian" src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Markdown" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="CURL" src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Wayback Machine" src="https://www.vectorlogo.zone/logos/archive_web/archive_web-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Stack Overflow" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="40" height="40" style="display: inline;" />
-    <img alt="Brave" src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" width="40" height="40" style="display: inline;" />
+    <img alt="GitHub" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Discord" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" width="40" height="40" style="display: inline;" />
+    <img alt="Android" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="40" height="40" style="display: inline;" />
+    <img alt="SQLite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" style="display: inline;" />
 </div>
 
 ### Occasionally
 <sup>I probably need to research these to use them, or I used to use them a lot but would probably be rusty now</sup>
 <div>
+    <img alt="Firefox" src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="PHP" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Bootstrap" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" width="40" height="40" style="display: inline;" />
     <img alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="MariaDB" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40" style="display: inline;" />
-    <img alt="SQLite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Apache" src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="Raspberry Pi" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="40" height="40" style="display: inline;" />
     <img alt="WordPress" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" width="40" height="40" style="display: inline;" />
